@@ -1,0 +1,81 @@
+{
+  "uid" : "aacc5ed2d83bd809",
+  "name" : "logFromForgotPasswordPageTest",
+  "fullName" : "logtest.LogTest.logFromForgotPasswordPageTest",
+  "historyId" : "363b4b3d876f9b09305d636a0d94536e",
+  "time" : {
+    "start" : 1715110645253,
+    "stop" : 1715110652103,
+    "duration" : 6850
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного входа личный кабинет со страницы восстановления пароля по ссылке 'Войти'",
+      "time" : {
+        "start" : 1715110646867,
+        "stop" : 1715110650923,
+        "duration" : 4056
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "logtest"
+  }, {
+    "name" : "testClass",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "logFromForgotPasswordPageTest"
+  }, {
+    "name" : "suite",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aacc5ed2d83bd809.json",
+  "parameterValues" : [ ]
+}

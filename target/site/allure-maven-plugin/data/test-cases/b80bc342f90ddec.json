@@ -1,0 +1,81 @@
+{
+  "uid" : "b80bc342f90ddec",
+  "name" : "logFromRegPageTest",
+  "fullName" : "logtest.LogTest.logFromRegPageTest",
+  "historyId" : "2faa39f67c3a0691661b86a21ff4f8c9",
+  "time" : {
+    "start" : 1715110658516,
+    "stop" : 1715110663467,
+    "duration" : 4951
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного входа личный кабинет со страницы регистрации по ссылке 'Войти'",
+      "time" : {
+        "start" : 1715110660002,
+        "stop" : 1715110662341,
+        "duration" : 2339
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "logtest"
+  }, {
+    "name" : "testClass",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "logFromRegPageTest"
+  }, {
+    "name" : "suite",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b80bc342f90ddec.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,131 @@
+[ {
+  "uid" : "318dced638e24916",
+  "name" : "goToTheStellarBurgersLogoFromForgotPasswordPageTest",
+  "time" : {
+    "start" : 1715110615157,
+    "stop" : 1715110623283,
+    "duration" : 8126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3587a8953671fd74",
+  "name" : "LogOutFromThePersonalCabTest",
+  "time" : {
+    "start" : 1715110670257,
+    "stop" : 1715110678163,
+    "duration" : 7906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e867b2e7eb7b9f1",
+  "name" : "regTest",
+  "time" : {
+    "start" : 1715110678166,
+    "stop" : 1715110683354,
+    "duration" : 5188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b80bc342f90ddec",
+  "name" : "logFromRegPageTest",
+  "time" : {
+    "start" : 1715110658516,
+    "stop" : 1715110663467,
+    "duration" : 4951
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdbdfb1b8ba7dade",
+  "name" : "goToTheStellarBurgersLogoFromLogPageTest",
+  "time" : {
+    "start" : 1715110631806,
+    "stop" : 1715110639365,
+    "duration" : 7559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b57feb7e50ae570",
+  "name" : "regWithIncorrectPasswordTest",
+  "time" : {
+    "start" : 1715110683357,
+    "stop" : 1715110686847,
+    "duration" : 3490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ab664edd689b282",
+  "name" : "goToThePersonalCabTest",
+  "time" : {
+    "start" : 1715110663471,
+    "stop" : 1715110670255,
+    "duration" : 6784
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aacc5ed2d83bd809",
+  "name" : "logFromForgotPasswordPageTest",
+  "time" : {
+    "start" : 1715110645253,
+    "stop" : 1715110652103,
+    "duration" : 6850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9c449ce032a6617",
+  "name" : "logFromHeaderPersonalCabLinkTest",
+  "time" : {
+    "start" : 1715110639370,
+    "stop" : 1715110645249,
+    "duration" : 5879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0a3a4692e054be3",
+  "name" : "goToTheStellarBurgersLogoFromPersonalCabPageTest",
+  "time" : {
+    "start" : 1715110586978,
+    "stop" : 1715110606971,
+    "duration" : 19993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4733ad15573cea13",
+  "name" : "goToTheStellarBurgersTabsTest",
+  "time" : {
+    "start" : 1715110607065,
+    "stop" : 1715110615154,
+    "duration" : 8089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33975c0c9cb27356",
+  "name" : "goToTheStellarBurgersLogoFromRegPageTest",
+  "time" : {
+    "start" : 1715110623285,
+    "stop" : 1715110631803,
+    "duration" : 8518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd468ded2dd2b4c6",
+  "name" : "logFromBurgerBuilderButtonTest",
+  "time" : {
+    "start" : 1715110652105,
+    "stop" : 1715110658513,
+    "duration" : 6408
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

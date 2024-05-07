@@ -1,0 +1,81 @@
+{
+  "uid" : "3b57feb7e50ae570",
+  "name" : "regWithIncorrectPasswordTest",
+  "fullName" : "regtest.RegTest.regWithIncorrectPasswordTest",
+  "historyId" : "da2f8247006e58441260cfca1174a9f7",
+  "time" : {
+    "start" : 1715110683357,
+    "stop" : 1715110686847,
+    "duration" : 3490
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка ошибки при введении некорректного пароля",
+      "time" : {
+        "start" : 1715110686094,
+        "stop" : 1715110686467,
+        "duration" : 373
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "regtest"
+  }, {
+    "name" : "testClass",
+    "value" : "regtest.RegTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "regWithIncorrectPasswordTest"
+  }, {
+    "name" : "suite",
+    "value" : "regtest.RegTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3b57feb7e50ae570.json",
+  "parameterValues" : [ ]
+}

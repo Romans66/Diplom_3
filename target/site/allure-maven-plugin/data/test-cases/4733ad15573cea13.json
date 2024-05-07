@@ -1,0 +1,81 @@
+{
+  "uid" : "4733ad15573cea13",
+  "name" : "goToTheStellarBurgersTabsTest",
+  "fullName" : "burgerbuildertest.BurgerBuilderTest.goToTheStellarBurgersTabsTest",
+  "historyId" : "e66a15928fc100f7eba7c519fd9d7676",
+  "time" : {
+    "start" : 1715110607065,
+    "stop" : 1715110615154,
+    "duration" : 8089
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного перехода по разделам 'Булки', 'Соусы', 'Начинки'",
+      "time" : {
+        "start" : 1715110609099,
+        "stop" : 1715110614101,
+        "duration" : 5002
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "burgerbuildertest"
+  }, {
+    "name" : "testClass",
+    "value" : "burgerbuildertest.BurgerBuilderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "goToTheStellarBurgersTabsTest"
+  }, {
+    "name" : "suite",
+    "value" : "burgerbuildertest.BurgerBuilderTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4733ad15573cea13.json",
+  "parameterValues" : [ ]
+}

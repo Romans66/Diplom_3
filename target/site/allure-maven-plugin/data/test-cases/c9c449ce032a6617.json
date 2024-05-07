@@ -1,0 +1,81 @@
+{
+  "uid" : "c9c449ce032a6617",
+  "name" : "logFromHeaderPersonalCabLinkTest",
+  "fullName" : "logtest.LogTest.logFromHeaderPersonalCabLinkTest",
+  "historyId" : "2a33bdd44b175ed9e71d9180469bb7cd",
+  "time" : {
+    "start" : 1715110639370,
+    "stop" : 1715110645249,
+    "duration" : 5879
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного входа личный кабинет со страницы конструктора по ссылке 'Личный кабинет'",
+      "time" : {
+        "start" : 1715110640922,
+        "stop" : 1715110644106,
+        "duration" : 3184
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "logtest"
+  }, {
+    "name" : "testClass",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "logFromHeaderPersonalCabLinkTest"
+  }, {
+    "name" : "suite",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c9c449ce032a6617.json",
+  "parameterValues" : [ ]
+}

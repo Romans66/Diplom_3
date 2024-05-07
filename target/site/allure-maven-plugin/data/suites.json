@@ -1,0 +1,190 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "burgerbuildertest.BurgerBuilderTest",
+    "children" : [ {
+      "name" : "goToTheStellarBurgersLogoFromPersonalCabPageTest",
+      "uid" : "e0a3a4692e054be3",
+      "parentUid" : "ae9f395b7c1d4c74be59bba8c7e622ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110586978,
+        "stop" : 1715110606971,
+        "duration" : 19993
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToTheStellarBurgersTabsTest",
+      "uid" : "4733ad15573cea13",
+      "parentUid" : "ae9f395b7c1d4c74be59bba8c7e622ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110607065,
+        "stop" : 1715110615154,
+        "duration" : 8089
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToTheStellarBurgersLogoFromForgotPasswordPageTest",
+      "uid" : "318dced638e24916",
+      "parentUid" : "ae9f395b7c1d4c74be59bba8c7e622ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110615157,
+        "stop" : 1715110623283,
+        "duration" : 8126
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToTheStellarBurgersLogoFromRegPageTest",
+      "uid" : "33975c0c9cb27356",
+      "parentUid" : "ae9f395b7c1d4c74be59bba8c7e622ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110623285,
+        "stop" : 1715110631803,
+        "duration" : 8518
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToTheStellarBurgersLogoFromLogPageTest",
+      "uid" : "bdbdfb1b8ba7dade",
+      "parentUid" : "ae9f395b7c1d4c74be59bba8c7e622ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110631806,
+        "stop" : 1715110639365,
+        "duration" : 7559
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ae9f395b7c1d4c74be59bba8c7e622ce"
+  }, {
+    "name" : "logtest.LogTest",
+    "children" : [ {
+      "name" : "logFromHeaderPersonalCabLinkTest",
+      "uid" : "c9c449ce032a6617",
+      "parentUid" : "b25b0732e05ed9be9f88a1775aecbd75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110639370,
+        "stop" : 1715110645249,
+        "duration" : 5879
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "logFromForgotPasswordPageTest",
+      "uid" : "aacc5ed2d83bd809",
+      "parentUid" : "b25b0732e05ed9be9f88a1775aecbd75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110645253,
+        "stop" : 1715110652103,
+        "duration" : 6850
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "logFromBurgerBuilderButtonTest",
+      "uid" : "dd468ded2dd2b4c6",
+      "parentUid" : "b25b0732e05ed9be9f88a1775aecbd75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110652105,
+        "stop" : 1715110658513,
+        "duration" : 6408
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "logFromRegPageTest",
+      "uid" : "b80bc342f90ddec",
+      "parentUid" : "b25b0732e05ed9be9f88a1775aecbd75",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110658516,
+        "stop" : 1715110663467,
+        "duration" : 4951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b25b0732e05ed9be9f88a1775aecbd75"
+  }, {
+    "name" : "personalcabtest.PersonalCabTest",
+    "children" : [ {
+      "name" : "goToThePersonalCabTest",
+      "uid" : "4ab664edd689b282",
+      "parentUid" : "fc8c0940d1810c0a91e0303941d8441d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110663471,
+        "stop" : 1715110670255,
+        "duration" : 6784
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "LogOutFromThePersonalCabTest",
+      "uid" : "3587a8953671fd74",
+      "parentUid" : "fc8c0940d1810c0a91e0303941d8441d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110670257,
+        "stop" : 1715110678163,
+        "duration" : 7906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fc8c0940d1810c0a91e0303941d8441d"
+  }, {
+    "name" : "regtest.RegTest",
+    "children" : [ {
+      "name" : "regTest",
+      "uid" : "4e867b2e7eb7b9f1",
+      "parentUid" : "28693efa8ae45151eb7f836a351e3508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110678166,
+        "stop" : 1715110683354,
+        "duration" : 5188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "regWithIncorrectPasswordTest",
+      "uid" : "3b57feb7e50ae570",
+      "parentUid" : "28693efa8ae45151eb7f836a351e3508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1715110683357,
+        "stop" : 1715110686847,
+        "duration" : 3490
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "28693efa8ae45151eb7f836a351e3508"
+  } ]
+}

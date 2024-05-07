@@ -1,0 +1,81 @@
+{
+  "uid" : "dd468ded2dd2b4c6",
+  "name" : "logFromBurgerBuilderButtonTest",
+  "fullName" : "logtest.LogTest.logFromBurgerBuilderButtonTest",
+  "historyId" : "1f9286702cc9388d4ebe58925b14ddc9",
+  "time" : {
+    "start" : 1715110652105,
+    "stop" : 1715110658513,
+    "duration" : 6408
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного входа личный кабинет со страницы конструктора по кнопке 'Войти в личный кабинет'",
+      "time" : {
+        "start" : 1715110654021,
+        "stop" : 1715110657392,
+        "duration" : 3371
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "logtest"
+  }, {
+    "name" : "testClass",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "logFromBurgerBuilderButtonTest"
+  }, {
+    "name" : "suite",
+    "value" : "logtest.LogTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd468ded2dd2b4c6.json",
+  "parameterValues" : [ ]
+}
