@@ -1,0 +1,81 @@
+{
+  "uid" : "bdbdfb1b8ba7dade",
+  "name" : "goToTheStellarBurgersLogoFromLogPageTest",
+  "fullName" : "burgerbuildertest.BurgerBuilderTest.goToTheStellarBurgersLogoFromLogPageTest",
+  "historyId" : "bad0f99ef0e93233605aa18f5b6ca564",
+  "time" : {
+    "start" : 1715110631806,
+    "stop" : 1715110639365,
+    "duration" : 7559
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного перехода на страницу конструктора по лого из страницы входа",
+      "time" : {
+        "start" : 1715110633693,
+        "stop" : 1715110637883,
+        "duration" : 4190
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "burgerbuildertest"
+  }, {
+    "name" : "testClass",
+    "value" : "burgerbuildertest.BurgerBuilderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "goToTheStellarBurgersLogoFromLogPageTest"
+  }, {
+    "name" : "suite",
+    "value" : "burgerbuildertest.BurgerBuilderTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bdbdfb1b8ba7dade.json",
+  "parameterValues" : [ ]
+}

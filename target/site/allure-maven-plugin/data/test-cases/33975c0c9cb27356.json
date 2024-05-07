@@ -1,0 +1,81 @@
+{
+  "uid" : "33975c0c9cb27356",
+  "name" : "goToTheStellarBurgersLogoFromRegPageTest",
+  "fullName" : "burgerbuildertest.BurgerBuilderTest.goToTheStellarBurgersLogoFromRegPageTest",
+  "historyId" : "d95ae0812b32c68084d41e3096857254",
+  "time" : {
+    "start" : 1715110623285,
+    "stop" : 1715110631803,
+    "duration" : 8518
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Проверка успешного перехода на страницу конструктора по лого из страницы регистрации",
+      "time" : {
+        "start" : 1715110625541,
+        "stop" : 1715110630085,
+        "duration" : 4544
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "burgerbuildertest"
+  }, {
+    "name" : "testClass",
+    "value" : "burgerbuildertest.BurgerBuilderTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "goToTheStellarBurgersLogoFromRegPageTest"
+  }, {
+    "name" : "suite",
+    "value" : "burgerbuildertest.BurgerBuilderTest"
+  }, {
+    "name" : "host",
+    "value" : "RDO-AO-NB-019"
+  }, {
+    "name" : "thread",
+    "value" : "13828@RDO-AO-NB-019.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "33975c0c9cb27356.json",
+  "parameterValues" : [ ]
+}
